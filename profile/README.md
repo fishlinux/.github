@@ -10,6 +10,7 @@ This project is very much in the beginning of it's lifecycle, so everything is u
 
 Here is a short list of current plans for fishlinux, no ETA on anything!
 
+- Tutorials
 - Fishlinux ISO
     - CLI installer
     - Calamares installer
