@@ -15,7 +15,6 @@ Here is a short list of current plans for fishlinux, no ETA on anything!
     - CLI installer
     - Calamares installer
 - Core repository
-    - auto-cpufreq (not in arch repos, but is deemed an important package)
     - grub (custom configuration should be shipped by default)
     - mkinitcpio (custom configuration should be shipped by default)
     - pacman (custom configuration should be shipped by default)
